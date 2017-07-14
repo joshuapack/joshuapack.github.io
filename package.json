@@ -1,0 +1,23 @@
+{
+  "name": "joshuapack.com",
+  "version": "1.0.0",
+  "description": "My Personal Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuapack/joshuapack.github.io.git"
+  },
+  "author": "Joshua Pack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuapack/joshuapack.github.io/issues"
+  },
+  "homepage": "https://github.com/joshuapack/joshuapack.github.io#readme",
+  "dependencies": {
+    "gatsby": "^1.2.0",
+    "gatsby-link": "^1.0.9"
+  }
+}
